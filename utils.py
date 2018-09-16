@@ -1,4 +1,4 @@
-from linepyopt.ttypes import Message
+from linepyopt.linethrift.ttypes import Message
 
 
 class Utils:

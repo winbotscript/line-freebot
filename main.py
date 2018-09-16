@@ -1,5 +1,5 @@
 import os
-from .receivers import Receivers
+from receivers import Receivers
 import linepyopt
 
 
